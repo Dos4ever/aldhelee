@@ -47,7 +47,7 @@ section{
 
 .main{
     width: 100%;
-    min-height: 100vh;
+    min-height: 80vh;
     display: flex;
     align-items: center;
     background: url(images/backgroundimg/web-background.jpg) no-repeat;
@@ -296,7 +296,6 @@ section{
     }
     .project-title span, a{
         font-size: 0.6em;
-        display: flex;
     }
 }
 
